@@ -6,3 +6,23 @@ h1{
 input {
   font-family: "HG行書体", monospace;
 }
+
+.daikichi {
+  color:#f00;
+}
+
+.kichi {
+  color:#f20;
+}
+
+.chukichi {
+  color:#f25;
+}
+
+.shokichi {
+  color:#5c085c;
+}
+
+.kyo {
+  color:#000055;
+}
